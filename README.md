@@ -1,8 +1,8 @@
-#### BasicStructure
+#### StaticHelperInput
 
-### March 26, 2016
+### March 30, 2016
 
-Basic structure for future projects
+Static Helper Input Methods for making things easier
 
 * Git
 * Java 7
